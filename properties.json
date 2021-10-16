@@ -1,0 +1,1938 @@
+[{
+  "_id": {
+    "$oid": "5a7026ba6f8a22001463dc4d"
+  },
+  "createdAt": {
+    "$date": "2018-01-30T08:03:06.466Z"
+  },
+  "category": "APT_RENT",
+  "content": "ללא תיווך! \n במרכז של המרכז- רח' בלפור המבוקש, דקה מרוטשילד לשלושה שותפים!!!\n **מראים מחר, יום ג’, בשעה 19:00** דירה מהממת, סופר מוארת וענקית כ-100 מ\"ר, ...\n רצפה מצויירת ותקרות גבוהות, עם מרפסת שמש ומרפסת שירות.\n בעלי חיים מוזמנים בכיף! שכ”ד - 8,600 ש”ח\n ארנונה - כ- 470 ש”ח לחודשיים\n אין ועד בית ואין תיווך\n תאריך כניסה - 1.2 מראים מחר, יום ג’, בשעה 19:00\n לאישור הגעה - 054-6363327. See Translation",
+  "rentPrice": 8600,
+  "squareMeters": 100,
+  "isBroker": false,
+  "hasBalcony": true,
+  "hasGarden": false,
+  "hasRoof": false,
+  "isParter": false,
+  "parking": 0,
+  "petsAllowed": "MAYBE",
+  "isRenovated": "NO",
+  "hasElevator": "NO",
+  "immediateEntry": "MAYBE",
+  "goodForRoommates": "YES",
+  "isFurnished": "MAYBE",
+  "photos": [
+    "https://s3.amazonaws.com/dooron.watermark/watermarks/SJhnNqTrM-NO.jpg",
+    "https://s3.amazonaws.com/dooron.watermark/watermarks/HJ32VqpBG-NO.jpg",
+    "https://s3.amazonaws.com/dooron.watermark/watermarks/ry23VqaSG-NO.jpg",
+    "https://s3.amazonaws.com/dooron.watermark/watermarks/BJ23EqTBz-NO.jpg",
+    "https://s3.amazonaws.com/dooron.watermark/watermarks/H1h3E5THf-NO.jpg"
+  ],
+  "tags": [
+    "מתאימה לשותפים"
+  ],
+  "coords": {
+    "lat": 32.0673723,
+    "lng": 34.7750342
+  },
+  "address": {
+    "city": "תל אביב יפו",
+    "street": "בלפור",
+    "isNoisyStreet": false,
+    "en": {
+      "areas": [
+        "מרכז הארץ"
+      ],
+      "ourAreasArr": [
+        "מרכז הארץ"
+      ]
+    },
+    "ourAreasArr": [
+      "מרכז הארץ"
+    ]
+  },
+  "hasNaturalLight": "MAYBE",
+  "entryDate": {
+    "$date": "2018-02-06T16:55:24.790Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      34.7750342,
+      32.0673723
+    ]
+  },
+  "photosCount": 5
+},{
+  "_id": {
+    "$oid": "5a83ddc72a61170014f44e74"
+  },
+  "createdAt": {
+    "$date": "2018-02-14T06:57:11.820Z"
+  },
+  "category": "APT_RENT",
+  "content": " ***עקב הברזה של הרגע האחרון, שוב רלוונטית*** מפנה באופן מיידי, דירת יחיד ברחוב טיומקין המושלם (אזור רוטשילד-נחמני). \n שכ\"ד 3,700 ש\"ח לחודש.... רלוונטי לגברים ונשים כאחד. לפרטים נוספים: דור 0508638699; נעם 0547788441\n מראים בשעות הערב (החל מ-2000). יום נפלא 😁🍕 ",
+  "rentPrice": 3700,
+  "isBroker": false,
+  "hasBalcony": false,
+  "hasGarden": false,
+  "hasRoof": false,
+  "isParter": false,
+  "parking": 0,
+  "petsAllowed": "MAYBE",
+  "hasNaturalLight": "MAYBE",
+  "isRenovated": "MAYBE",
+  "hasElevator": "NO",
+  "entryDate": {
+    "$date": "2018-02-14T06:57:11.816Z"
+  },
+  "immediateEntry": "MAYBE",
+  "goodForRoommates": "MAYBE",
+  "isFurnished": "MAYBE",
+  "photos": [],
+  "tags": [],
+  "coords": {
+    "lat": 32.0643671,
+    "lng": 34.778237
+  },
+  "address": {
+    "street": "טיומקין",
+    "city": "תל אביב יפו",
+    "isNoisyStreet": false,
+    "showAptNumber": false,
+    "showHouseNumber": true,
+    "en": {
+      "areas": [
+        "מרכז הארץ"
+      ],
+      "ourAreasArr": [
+        "מרכז הארץ"
+      ]
+    },
+    "ourAreasArr": [
+      "מרכז הארץ"
+    ]
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      34.778237,
+      32.0643671
+    ]
+  },
+  "photosCount": 0
+},{
+  "_id": {
+    "$oid": "5a83e0aa2a61170014f44e89"
+  },
+  "createdAt": {
+    "$date": "2018-02-14T07:09:30.093Z"
+  },
+  "category": "APT_RENT",
+  "floor": 2,
+  "content": " דירה להשכרה אלנבי שוק הכרמל/ שנקין דירה פצצה לזוג חלונות כפולים תיקרה גבוה משופצת ונינוחה חוזה קליל קומה 2 50 מטר מרובע + מרפסת",
+  "rentPrice": 5500,
+  "squareMeters": 50,
+  "isBroker": false,
+  "hasBalcony": true,
+  "hasGarden": false,
+  "hasRoof": false,
+  "isParter": false,
+  "parking": 0,
+  "petsAllowed": "MAYBE",
+  "hasNaturalLight": "MAYBE",
+  "isRenovated": "MAYBE",
+  "hasElevator": "NO",
+  "entryDate": {
+    "$date": "2018-02-14T07:09:30.089Z"
+  },
+  "immediateEntry": "MAYBE",
+  "goodForRoommates": "MAYBE",
+  "isFurnished": "MAYBE",
+  "photos": [
+    "https://s3.amazonaws.com/dooron.watermark/watermarks/SJnnoUbPM-NO.jpg",
+    "https://s3.amazonaws.com/dooron.watermark/watermarks/rk0nsL-vf-NO.jpg",
+    "https://s3.amazonaws.com/dooron.watermark/watermarks/SynhjLZwf-NO.jpg",
+    "https://s3.amazonaws.com/dooron.watermark/watermarks/ryn3oLZPf-NO.jpg",
+    "https://s3.amazonaws.com/dooron.watermark/watermarks/Bys2oI-vz-NO.jpg"
+  ],
+  "tags": [
+    "משופצת",
+    "מרפסת"
+  ],
+  "coords": {
+    "lat": 32.0676462,
+    "lng": 34.7712005
+  },
+  "address": {
+    "street": "אלנבי",
+    "city": "תל אביב יפו",
+    "isNoisyStreet": false,
+    "showAptNumber": false,
+    "showHouseNumber": true,
+    "en": {
+      "areas": [
+        "מרכז הארץ"
+      ],
+      "ourAreasArr": [
+        "מרכז הארץ"
+      ]
+    },
+    "ourAreasArr": [
+      "מרכז הארץ"
+    ]
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      34.7712005,
+      32.0676462
+    ]
+  },
+  "photosCount": 5
+},{
+  "_id": {
+    "$oid": "5a83e29f2a61170014f44ee8"
+  },
+  "createdAt": {
+    "$date": "2018-02-14T07:17:51.494Z"
+  },
+  "category": "APT_RENT",
+  "content": " מתפנה דירה בשלמה המלך /זמנהוף עקב יציאה באמצע חוזה המחיר 2400שח עד ה13/3  לאחר מכן זה במחיר הרגיל 4200שח",
+  "rentPrice": 4200,
+  "isBroker": false,
+  "hasBalcony": false,
+  "hasGarden": false,
+  "hasRoof": false,
+  "isParter": false,
+  "parking": 0,
+  "petsAllowed": "MAYBE",
+  "hasNaturalLight": "MAYBE",
+  "isRenovated": "MAYBE",
+  "hasElevator": "NO",
+  "entryDate": {
+    "$date": "2018-02-14T07:17:51.488Z"
+  },
+  "immediateEntry": "MAYBE",
+  "goodForRoommates": "MAYBE",
+  "isFurnished": "MAYBE",
+  "photos": [],
+  "tags": [],
+  "coords": {
+    "lat": 32.081109,
+    "lng": 34.777519
+  },
+  "address": {
+    "street": "שלמה המלך",
+    "city": "תל אביב יפו",
+    "isNoisyStreet": false,
+    "showAptNumber": false,
+    "showHouseNumber": true,
+    "en": {
+      "areas": [
+        "מרכז הארץ"
+      ],
+      "ourAreasArr": [
+        "מרכז הארץ"
+      ]
+    },
+    "ourAreasArr": [
+      "מרכז הארץ"
+    ]
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      34.777519,
+      32.081109
+    ]
+  },
+  "photosCount": 0
+},{
+  "_id": {
+    "$oid": "5a899cef498f4d0014176928"
+  },
+  "createdAt": {
+    "$date": "2018-02-18T15:34:07.355Z"
+  },
+  "category": "APT_RENT",
+  "content": " לדירה מרווחת, משופצת ומרוהטת דרוש/ה שותפ/ה.\n הדירה במרכז תל אביב (החשמונאים בקרבה לגן מאיר), כוללת שני תאי שירותים, מטבח וסלון מרוהט.\n תנאי תשלום נוחים של חודש בחודשו.\n לפרטים- \n אמיר...\n 054-4994354 ",
+  "rentPrice": 3500,
+  "hasBalcony": false,
+  "hasGarden": false,
+  "hasRoof": false,
+  "isParter": false,
+  "parking": 0,
+  "petsAllowed": "MAYBE",
+  "hasNaturalLight": "MAYBE",
+  "isRenovated": "MAYBE",
+  "hasElevator": "NO",
+  "entryDate": {
+    "$date": "2018-02-18T15:34:07.347Z"
+  },
+  "immediateEntry": "MAYBE",
+  "goodForRoommates": "YES",
+  "isFurnished": "YES",
+  "photos": [
+    "https://s3.amazonaws.com/dooron.watermark/watermarks/r1ZhIzvvG-NO.jpg",
+    "https://s3.amazonaws.com/dooron.watermark/watermarks/SkW3LzDwf-NO.jpg",
+    "https://s3.amazonaws.com/dooron.watermark/watermarks/H1-2UzPvz-NO.jpg",
+    "https://s3.amazonaws.com/dooron.watermark/watermarks/SJZnLfwwM-NO.jpg"
+  ],
+  "tags": [
+    "מרוהטת",
+    "משופצת",
+    "מתאימה לשותפים"
+  ],
+  "coords": {
+    "lat": 32.0700007,
+    "lng": 34.7807208
+  },
+  "address": {
+    "neighborhoodNum": null,
+    "quarterNum": 5,
+    "street": "החשמונאים",
+    "city": "תל אביב יפו",
+    "isNoisyStreet": false,
+    "matchType": "route",
+    "showAptNumber": true,
+    "showHouseNumber": true,
+    "en": {
+      "areas": [
+        "מרכז הארץ"
+      ],
+      "ourAreasArr": [
+        "מרכז הארץ"
+      ]
+    },
+    "ourAreasArr": [
+      "מרכז הארץ"
+    ]
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      34.7807208,
+      32.0700007
+    ]
+  },
+  "photosCount": 4
+},{
+  "_id": {
+    "$oid": "5a8d1ecebd527300140b24d2"
+  },
+  "createdAt": {
+    "$date": "2018-02-21T07:25:02.161Z"
+  },
+  "category": "APT_RENT",
+  "floor": 0,
+  "content": " מתפנה דירה פרטיות מוחלטת בשלמה המלך/ זמנהוף החל מה15/3  .אפשרי גם טווח ארוך מתאימה לזוג/ יחיד .קרקע מרוהטת ישנה אך שמורה.4200שח לא כולל\n לפרטים ותמונות 0523060703",
+  "rentPrice": 4200,
+  "hasBalcony": false,
+  "hasGarden": false,
+  "hasRoof": false,
+  "isParter": false,
+  "parking": 0,
+  "petsAllowed": "MAYBE",
+  "hasNaturalLight": "MAYBE",
+  "isRenovated": "MAYBE",
+  "hasElevator": "NO",
+  "entryDate": {
+    "$date": "2018-03-15T07:20:31.503Z"
+  },
+  "immediateEntry": "NO",
+  "goodForRoommates": "MAYBE",
+  "isFurnished": "YES",
+  "photos": [],
+  "tags": [
+    "מרוהטת",
+    "השכרה לטווח ארוך"
+  ],
+  "coords": {
+    "lat": 32.081109,
+    "lng": 34.777519
+  },
+  "address": {
+    "neighborhoodNum": 26,
+    "yad2NeighborhoodNum": 54,
+    "quarterNum": 3,
+    "street": "שלמה המלך",
+    "city": "תל אביב יפו",
+    "isNoisyStreet": false,
+    "matchType": "route",
+    "showAptNumber": true,
+    "showHouseNumber": true,
+    "en": {
+      "areas": [
+        "מרכז הארץ"
+      ],
+      "ourAreasArr": [
+        "מרכז הארץ"
+      ]
+    },
+    "ourAreasArr": [
+      "מרכז הארץ"
+    ]
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      34.777519,
+      32.081109
+    ]
+  },
+  "photosCount": 0
+},{
+  "_id": {
+    "$oid": "5a950ece36e41f00147f3dcc"
+  },
+  "createdAt": {
+    "$date": "2018-02-27T07:54:54.986Z"
+  },
+  "category": "APT_RENT",
+  "content": " ללא תיווך! מראים מחר!\n **כניסה מידית ל-3 שותפים במרכז תל אביב** ברחוב בלפור 47, דירה מהממת, סופר מוארת וענקית, כ-100 מ\"ר, \n רצפה מצויירת ותקרות גבוהות, עם מרפסת שמש ומרפסת שירות....\n שכ”ד - 8,000 ש”ח\n ארנונה - כ- 470 ש”ח לחודשיים\n מראים מחר בשעה 19:00 מותר בעלי חיים, אין ועד בית ואין תיווך\n כניסה מיידית מראים מחר בשעה 19:00\n לאישור הגעה 054-6363327 ",
+  "rentPrice": 8000,
+  "squareMeters": 100,
+  "isBroker": false,
+  "hasBalcony": true,
+  "hasGarden": false,
+  "hasRoof": false,
+  "isParter": false,
+  "parking": 0,
+  "petsAllowed": "YES",
+  "hasNaturalLight": "YES",
+  "isRenovated": "NO",
+  "hasElevator": "NO",
+  "entryDate": {
+    "$date": "2018-02-27T07:54:54.977Z"
+  },
+  "immediateEntry": "YES",
+  "goodForRoommates": "YES",
+  "isFurnished": "MAYBE",
+  "photos": [
+    "https://s3.amazonaws.com/dooron.watermark/watermarks/SkpoX0W_z-NO.jpg",
+    "https://s3.amazonaws.com/dooron.watermark/watermarks/SkpimC-Of-NO.jpg",
+    "https://s3.amazonaws.com/dooron.watermark/watermarks/rJTj70WuM-NO.jpg",
+    "https://s3.amazonaws.com/dooron.watermark/watermarks/rkpj7AbdG-NO.jpg",
+    "https://s3.amazonaws.com/dooron.watermark/watermarks/Bkxai7CbuG-NO.jpg"
+  ],
+  "tags": [
+    "מתאימה לשותפים",
+    "חיות מחמד"
+  ],
+  "coords": {
+    "lat": 32.0668156,
+    "lng": 34.777268
+  },
+  "address": {
+    "neighborhoodNum": null,
+    "quarterNum": 5,
+    "houseNumber": "47",
+    "street": "בלפור",
+    "city": "תל אביב יפו",
+    "isNoisyStreet": false,
+    "matchType": "streetAddress",
+    "showAptNumber": true,
+    "showHouseNumber": true,
+    "en": {
+      "areas": [
+        "מרכז הארץ"
+      ],
+      "ourAreasArr": [
+        "מרכז הארץ"
+      ]
+    },
+    "ourAreasArr": [
+      "מרכז הארץ"
+    ]
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      34.777268,
+      32.0668156
+    ]
+  },
+  "photosCount": 5
+},{
+  "_id": {
+    "$oid": "5b0be1d8107ea20014318fe5"
+  },
+  "coords": {
+    "lat": 32.0618119,
+    "lng": 34.7708095
+  },
+  "tags": [],
+  "content": "להשכרה!!\n דירה  קרקע  170 מטר בנוי עם חצר ליד השגרירות הברזילאית \n תקרה גבוה ,בית חכם\n חדשה מקבלן מיוחדת במינה \n בשכונה המרונית קרובה לים 2 דקות מנמל יפו באזור שקט ...במיוחד\n ברחוב עבד איל ביטר\n לפרטים נא ליצור קשר-0509580682 ",
+  "photos": [
+    "https://s3.amazonaws.com/dooron.watermark/watermarks/SkzW1iOTM-NO.jpg",
+    "https://s3.amazonaws.com/dooron.watermark/watermarks/ryQ-JsOTf-NO.jpg",
+    "https://s3.amazonaws.com/dooron.watermark/watermarks/SJG-ys_pM-NO.jpg",
+    "https://s3.amazonaws.com/dooron.watermark/watermarks/Hk7W1odTG-NO.jpg",
+    "https://s3.amazonaws.com/dooron.watermark/watermarks/BkzZJj_6G-NO.jpg"
+  ],
+  "squareMeters": 170,
+  "immediateEntry": "MAYBE",
+  "hasBalcony": false,
+  "hasGarden": true,
+  "hasRoof": false,
+  "hasElevator": "NO",
+  "parking": 0,
+  "isRenovated": "MAYBE",
+  "hasNaturalLight": "MAYBE",
+  "isFurnished": "MAYBE",
+  "petsAllowed": "MAYBE",
+  "goodForRoommates": "MAYBE",
+  "isParter": false,
+  "category": "APT_RENT",
+  "address": {
+    "street": "יהודה הלוי",
+    "city": "תל אביב יפו",
+    "isNoisyStreet": true,
+    "showHouseNumber": true,
+    "showAptNumber": true,
+    "en": {
+      "areas": [
+        "מרכז הארץ"
+      ],
+      "ourAreasArr": [
+        "מרכז הארץ"
+      ]
+    },
+    "ourAreasArr": [
+      "מרכז הארץ"
+    ]
+  },
+  "createdAt": {
+    "$date": "2018-05-28T11:02:48.062Z"
+  },
+  "hasGallery": "MAYBE",
+  "entryDate": {
+    "$date": "2018-05-28T11:02:48.067Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      34.7708095,
+      32.0618119
+    ]
+  },
+  "photosCount": 5
+},{
+  "_id": {
+    "$oid": "5b195b519367cc001430774b"
+  },
+  "coords": {
+    "lat": 32.0613752,
+    "lng": 34.7735607
+  },
+  "floor": 3,
+  "tags": [
+    "מעלית"
+  ],
+  "content": " דירה ברחוב אלנבי 136 קומה 3 עם מעלית !\n דירה 14 מטר \n פנויה מ15.6",
+  "photos": [
+    "https://s3.amazonaws.com/dooron.watermark/watermarks/rJpM9ALx7-NO.jpg",
+    "https://s3.amazonaws.com/dooron.watermark/watermarks/Syhfc0Ll7-NO.jpg",
+    "https://s3.amazonaws.com/dooron.watermark/watermarks/SkhM90UxQ-NO.jpg",
+    "https://s3.amazonaws.com/dooron.watermark/watermarks/By3McCUlm-NO.jpg",
+    "https://s3.amazonaws.com/dooron.watermark/watermarks/H1hGqCUgX-NO.jpg"
+  ],
+  "squareMeters": 14,
+  "immediateEntry": "NO",
+  "entryDate": {
+    "$date": "2018-06-15T16:19:48.547Z"
+  },
+  "isBroker": false,
+  "hasBalcony": false,
+  "hasGarden": false,
+  "hasRoof": false,
+  "hasElevator": "YES",
+  "parking": 0,
+  "isRenovated": "NO",
+  "hasNaturalLight": "NO",
+  "rentPrice": 2300,
+  "isFurnished": "MAYBE",
+  "petsAllowed": "MAYBE",
+  "goodForRoommates": "NO",
+  "isParter": false,
+  "category": "APT_RENT",
+  "address": {
+    "houseNumber": "136",
+    "street": "אלנבי",
+    "city": "תל אביב יפו",
+    "showHouseNumber": true,
+    "showAptNumber": true,
+    "en": {
+      "areas": [
+        "מרכז הארץ"
+      ],
+      "ourAreasArr": [
+        "מרכז הארץ"
+      ]
+    },
+    "ourAreasArr": [
+      "מרכז הארץ"
+    ]
+  },
+  "createdAt": {
+    "$date": "2018-06-07T16:20:33.698Z"
+  },
+  "hasGallery": "MAYBE",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      34.7735607,
+      32.0613752
+    ]
+  },
+  "photosCount": 5
+},{
+  "_id": {
+    "$oid": "5ac32e0b8dd73373e8266428"
+  },
+  "address": {
+    "isNoisyStreet": null,
+    "city": "תל אביב יפו",
+    "street": "אסתר המלכה",
+    "showHouseNumber": true,
+    "showAptNumber": true,
+    "aptNumber": null,
+    "houseNumber": null,
+    "en": {
+      "areas": [
+        "מרכז הארץ"
+      ],
+      "ourAreasArr": [
+        "מרכז הארץ"
+      ]
+    },
+    "ourAreasArr": [
+      "מרכז הארץ"
+    ]
+  },
+  "category": "APT_RENT",
+  "isParter": true,
+  "goodForRoommates": "MAYBE",
+  "petsAllowed": "MAYBE",
+  "isFurnished": "MAYBE",
+  "rentPrice": 3500,
+  "hasNaturalLight": "NO",
+  "isRenovated": "YES",
+  "parking": 0,
+  "hasElevator": "MAYBE",
+  "hasRoof": null,
+  "hasGarden": null,
+  "hasBalcony": null,
+  "isBroker": null,
+  "immediateEntry": "MAYBE",
+  "photos": [
+    "https://s3.amazonaws.com/dooron.watermark/watermarks/BJ8dToxsG-NO.jpg",
+    "https://s3.amazonaws.com/dooron.watermark/watermarks/Sk8_pjesz-NO.jpg",
+    "https://s3.amazonaws.com/dooron.watermark/watermarks/Sywd6igsz-NO.jpg",
+    "https://s3.amazonaws.com/dooron.watermark/watermarks/B1Uu6igsf-NO.jpg",
+    "https://s3.amazonaws.com/dooron.watermark/watermarks/SJHOajgoz-NO.jpg"
+  ],
+  "content": "לפני תיווך! דירת יחיד מקסימה ברחוב אסתר המלכה 1 \n 3500 שח להשכרה\n אני הדיירת הראשונה שגרה בה, משופצת לחלוטין, מטבח חדש, טלוויזיה ומקרר מתנה מבעל הדירה\n קומת מרתף עם חלון\n יש מכונת כביסה ומייבש משותפים...\n המחיר כולל ועד בית, מים וארנונה\n מראה בערבים ",
+  "tags": [
+    "משופצת",
+    "מתאימה לשותפים"
+  ],
+  "coords": {
+    "lng": 34.7749256,
+    "lat": 32.079087
+  },
+  "createdAt": {
+    "$date": "2018-04-03T07:32:27.606Z"
+  },
+  "entryDate": {
+    "$date": "2018-04-03T07:32:27.637Z"
+  },
+  "numOfBalconies": null,
+  "floorOutOf": null,
+  "floor": 0,
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      34.7749256,
+      32.079087
+    ]
+  },
+  "photosCount": 5
+},{
+  "_id": {
+    "$oid": "5a720774b3c91d001410027d"
+  },
+  "createdAt": {
+    "$date": "2018-01-31T18:14:12.962Z"
+  },
+  "category": "APT_RENT",
+  "content": "להשכרה ליד שנקין‼️רק 3.500 שח‼️משופצת כחדשה‼️מראים מחר בתאום מראש‼️See Translation להשכרה בלב תל אביב!!אלנבי/בלפור! דירת גלריה מהממת.. משופצת כחדשה!!! בניין מטופח...עורפית ושקטה!! סלון גדול עם מטבח מפנק.. שירותים ומקלחת חדישים.. גלרית שינה גדו...לה.. הדירה 35 מר.. קרובה לשנקין ושוק הכרמל.בדירה נשאר בדירה ארון קטן ומכונת כביסה... כל זה במחיר מעולה של 3.500 שח בלבד !!!כניסה מיידית! לפרטים נוספים 0544859980 0503699888=== ״הום דוט קום דירות שוות להשכרה בתל אביב See Translation",
+  "rentPrice": 3500,
+  "squareMeters": 35,
+  "isBroker": true,
+  "hasBalcony": false,
+  "hasGarden": false,
+  "hasRoof": false,
+  "isParter": false,
+  "parking": 0,
+  "petsAllowed": "MAYBE",
+  "hasNaturalLight": "YES",
+  "isRenovated": "NO",
+  "hasElevator": "NO",
+  "immediateEntry": "YES",
+  "goodForRoommates": "MAYBE",
+  "isFurnished": "MAYBE",
+  "photos": [
+    "https://s3.amazonaws.com/dooron.watermark/watermarks/B1lIn00rG-NO.jpg",
+    "https://s3.amazonaws.com/dooron.watermark/watermarks/Ske8hRABM-NO.jpg",
+    "https://s3.amazonaws.com/dooron.watermark/watermarks/BJxUnRRHf-NO.jpg",
+    "https://s3.amazonaws.com/dooron.watermark/watermarks/SkeL3RRSM-NO.jpg"
+  ],
+  "tags": [
+    "משופצת"
+  ],
+  "coords": {
+    "lat": 32.0689007,
+    "lng": 34.7749066
+  },
+  "address": {
+    "city": "תל אביב יפו",
+    "street": "שנקין",
+    "isNoisyStreet": false,
+    "en": {
+      "areas": [
+        "מרכז הארץ"
+      ],
+      "ourAreasArr": [
+        "מרכז הארץ"
+      ]
+    },
+    "ourAreasArr": [
+      "מרכז הארץ"
+    ]
+  },
+  "entryDate": {
+    "$date": "2018-02-06T16:55:24.790Z"
+  },
+  "floor": null,
+  "managementFeePrice": null,
+  "numOfBalconies": null,
+  "numOfRooms": null,
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      34.7749066,
+      32.0689007
+    ]
+  },
+  "photosCount": 4
+},{
+  "_id": {
+    "$oid": "5a5b15868dd73373e8bd51e7"
+  },
+  "coords": {
+    "lng": 34.765731,
+    "lat": 32.062097
+  },
+  "goodForRoommates": "MAYBE",
+  "immediateEntry": "MAYBE",
+  "petsAllowed": "MAYBE",
+  "isFurnished": "MAYBE",
+  "parking": 0,
+  "hasElevator": "NO",
+  "isParter": false,
+  "hasRoof": false,
+  "hasGarden": false,
+  "hasBalcony": false,
+  "isBroker": true,
+  "squareMeters": 30,
+  "rentPrice": 3600,
+  "photos": [],
+  "content": " *****For rent studio in Neve Tzedek *****\n This space is around 30 meters, with high ceilings and great natural light. In an old building in a fantastic location. Price: 3600 NIS. Please call now to Eden real estate agency 0546336990.",
+  "tags": [
+    "מרוהטת"
+  ],
+  "address": {
+    "isNoisyStreet": false,
+    "street": "נווה צדק",
+    "city": "תל אביב יפו",
+    "en": {
+      "areas": [
+        "מרכז הארץ"
+      ],
+      "ourAreasArr": [
+        "מרכז הארץ"
+      ]
+    },
+    "ourAreasArr": [
+      "מרכז הארץ"
+    ]
+  },
+  "createdAt": {
+    "$date": "2018-01-14T08:32:06.861Z"
+  },
+  "entryDate": {
+    "$date": "2018-02-06T16:55:24.790Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      34.765731,
+      32.062097
+    ]
+  },
+  "photosCount": 0,
+  "category": "APT_RENT"
+},{
+  "_id": {
+    "$oid": "5ad43c128dd73373e8af3cef"
+  },
+  "address": {
+    "isNoisyStreet": true,
+    "city": "תל אביב יפו",
+    "street": "פרישמן",
+    "houseNumber": "88",
+    "showHouseNumber": true,
+    "showAptNumber": true,
+    "aptNumber": null,
+    "en": {
+      "areas": [
+        "מרכז הארץ"
+      ],
+      "ourAreasArr": [
+        "מרכז הארץ"
+      ]
+    },
+    "ourAreasArr": [
+      "מרכז הארץ"
+    ]
+  },
+  "category": "APT_RENT",
+  "goodForRoommates": "NO",
+  "petsAllowed": "MAYBE",
+  "isFurnished": "YES",
+  "managementFeePrice": 40,
+  "rentPrice": 4000,
+  "hasNaturalLight": "MAYBE",
+  "isRenovated": "YES",
+  "hasElevator": "NO",
+  "immediateEntry": "MAYBE",
+  "squareMeters": 30,
+  "photos": [],
+  "content": " ****צילום וידאו של הדירה מופיע באחת התגובות****\n דירה להשכרה בתל אביב מול כיכר רבין.\n דירת יחיד, כ30 מ''ר, מוארת, משופצת ויפה.\n רחוב פרישמן 88, תל אביב.\n קומה 3 (ללא מעלית)....\n דירה מרוהטת קומפלט, רק להביא בגדים ולהכנס.\n מחיר: 4000.\n ארנונה: 240 לחודשיים.\n ועד: 40 לחודש.\n תאריך כניסה: 1.5-10.5 (תאריך מדויק ינתן בהמשך). ניתן להגיע לראות ביום שלישי הקרוב 17.04 בשעה 20:00 פרטים נוספים בפרטי או ב0504254689 (עדיפות לSMS/WhatsApp ",
+  "tags": [
+    "מרוהטת",
+    "משופצת"
+  ],
+  "floor": 3,
+  "coords": {
+    "lng": 34.7796455,
+    "lat": 32.079468
+  },
+  "createdAt": {
+    "$date": "2018-04-16T06:00:49.926Z"
+  },
+  "entryDate": {
+    "$date": "2018-04-16T06:00:49.986Z"
+  },
+  "isParter": null,
+  "parking": 0,
+  "hasRoof": null,
+  "hasGarden": null,
+  "hasBalcony": null,
+  "isBroker": null,
+  "numOfBalconies": null,
+  "floorOutOf": null,
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      34.7796455,
+      32.079468
+    ]
+  },
+  "photosCount": 0
+},{
+  "_id": {
+    "$oid": "5ab9dfbf8dd73373e827cb46"
+  },
+  "address": {
+    "city": "תל אביב יפו",
+    "street": "שלמה המלך",
+    "showAptNumber": null,
+    "showHouseNumber": null,
+    "isNoisyStreet": null,
+    "aptNumber": null,
+    "houseNumber": null,
+    "en": {
+      "areas": [
+        "מרכז הארץ"
+      ],
+      "ourAreasArr": [
+        "מרכז הארץ"
+      ]
+    },
+    "ourAreasArr": [
+      "מרכז הארץ"
+    ]
+  },
+  "category": "APT_RENT",
+  "isParter": false,
+  "goodForRoommates": "NO",
+  "petsAllowed": "MAYBE",
+  "isFurnished": "MAYBE",
+  "rentPrice": 4200,
+  "hasNaturalLight": "MAYBE",
+  "isRenovated": "MAYBE",
+  "parking": 0,
+  "hasElevator": "NO",
+  "hasRoof": false,
+  "hasGarden": false,
+  "hasBalcony": false,
+  "isBroker": false,
+  "immediateEntry": "MAYBE",
+  "photos": [],
+  "content": " מתפנה ראשון הקרוב , דירה לזוג/יחיד פרטיות מוחלטת רחוב שקט ונעים עם גינה.קרקע אפשר בעח.המחיר לא כולל חשבונות נמוכים מאוד.ניתן גם לסבלט דירה מאובזרת",
+  "tags": [
+    "סבלט"
+  ],
+  "createdAt": {
+    "$date": "2018-03-27T06:07:59.106Z"
+  },
+  "entryDate": null,
+  "numOfBalconies": null,
+  "floorOutOf": null,
+  "floor": 0,
+  "photosCount": 0
+},{
+  "_id": {
+    "$oid": "5a5b154e8dd73373e8bd3eca"
+  },
+  "coords": {
+    "lng": 34.765731,
+    "lat": 32.062097
+  },
+  "goodForRoommates": "MAYBE",
+  "immediateEntry": "MAYBE",
+  "petsAllowed": "MAYBE",
+  "isFurnished": "MAYBE",
+  "parking": 0,
+  "hasElevator": "NO",
+  "isParter": false,
+  "hasRoof": false,
+  "hasGarden": false,
+  "hasBalcony": false,
+  "squareMeters": 45,
+  "rentPrice": 4500,
+  "photos": [],
+  "content": " *****Fully renovated studio in Neve Tzedek for rent *****\n Around 45 meters, fully renovated with great natural light. Looks like a loft . With amazing location ( in a  old building) safe, nice and fantastic located. Price: 4500 NIS. Please call to Eden real estate agency 0546336990.",
+  "tags": [
+    "מרוהטת",
+    "משופצת"
+  ],
+  "address": {
+    "isNoisyStreet": false,
+    "street": "נווה צדק",
+    "city": "תל אביב יפו",
+    "en": {
+      "areas": [
+        "מרכז הארץ"
+      ],
+      "ourAreasArr": [
+        "מרכז הארץ"
+      ]
+    },
+    "ourAreasArr": [
+      "מרכז הארץ"
+    ]
+  },
+  "createdAt": {
+    "$date": "2018-01-14T08:31:10.512Z"
+  },
+  "entryDate": {
+    "$date": "2018-02-06T16:55:24.790Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      34.765731,
+      32.062097
+    ]
+  },
+  "photosCount": 0,
+  "category": "APT_RENT"
+},{
+  "_id": {
+    "$oid": "5b22824b8cc0830014abdabd"
+  },
+  "coords": {
+    "lat": 32.076627,
+    "lng": 34.778113
+  },
+  "tags": [],
+  "content": "מפנה את הדירה הנפלאה שלי ברחוב שמשון הגיבור (בין כיכר מסריק לסנטר). \n 35 מ\"ר, מוארת וכיפית. 4,500 ₪ כולל ארנונה, מים חשמל וועד בית.  כניסה ב-20 ליולי. כל הציוד שבדירה מוצע למכירה במחיר רצפה.  מי שמעוניין מוזמן ליצור קשר בפרטי. ... אודה לשיתופים ותיוגים. ",
+  "photos": [
+    "https://s3.amazonaws.com/dooron.watermark/watermarks/rJeEWWlZX-NO.jpg",
+    "https://s3.amazonaws.com/dooron.watermark/watermarks/ByxVbZe-Q-NO.jpg",
+    "https://s3.amazonaws.com/dooron.watermark/watermarks/ByeEbbe-X-NO.jpg",
+    "https://s3.amazonaws.com/dooron.watermark/watermarks/HygEW-l-7-NO.jpg",
+    "https://s3.amazonaws.com/dooron.watermark/watermarks/ryl4bZlW7-NO.jpg"
+  ],
+  "squareMeters": 35,
+  "immediateEntry": "NO",
+  "entryDate": {
+    "$date": "2018-07-20T14:56:40.649Z"
+  },
+  "isBroker": false,
+  "hasBalcony": false,
+  "hasGarden": false,
+  "hasRoof": false,
+  "hasElevator": "MAYBE",
+  "parking": 0,
+  "isRenovated": "MAYBE",
+  "hasNaturalLight": "MAYBE",
+  "rentPrice": 4500,
+  "isFurnished": "MAYBE",
+  "petsAllowed": "MAYBE",
+  "goodForRoommates": "NO",
+  "isParter": false,
+  "category": "APT_RENT",
+  "address": {
+    "street": "שמשון הגיבור",
+    "city": "תל אביב יפו",
+    "showHouseNumber": true,
+    "showAptNumber": true,
+    "en": {
+      "areas": [
+        "מרכז הארץ"
+      ],
+      "ourAreasArr": [
+        "מרכז הארץ"
+      ]
+    },
+    "ourAreasArr": [
+      "מרכז הארץ"
+    ]
+  },
+  "createdAt": {
+    "$date": "2018-06-14T14:57:15.503Z"
+  },
+  "hasGallery": "MAYBE",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      34.778113,
+      32.076627
+    ]
+  },
+  "photosCount": 5
+},{
+  "_id": {
+    "$oid": "5aedee2e8dd73373e871ebd8"
+  },
+  "address": {
+    "city": "תל אביב יפו",
+    "street": "דיזינגוף",
+    "showHouseNumber": true,
+    "showAptNumber": true,
+    "isNoisyStreet": null,
+    "aptNumber": null,
+    "houseNumber": null,
+    "en": {
+      "areas": [
+        "מרכז הארץ"
+      ],
+      "ourAreasArr": [
+        "מרכז הארץ"
+      ]
+    },
+    "ourAreasArr": [
+      "מרכז הארץ"
+    ]
+  },
+  "category": "APT_RENT",
+  "isParter": false,
+  "goodForRoommates": "YES",
+  "petsAllowed": "MAYBE",
+  "isFurnished": "MAYBE",
+  "rentPrice": 9000,
+  "hasNaturalLight": "MAYBE",
+  "isRenovated": "YES",
+  "parking": 0,
+  "hasElevator": "NO",
+  "hasRoof": false,
+  "hasGarden": false,
+  "hasBalcony": false,
+  "isBroker": true,
+  "immediateEntry": "NO",
+  "squareMeters": 70,
+  "photos": [],
+  "content": " There is an open apartment with 2 bedrooms , 70 m2 , unfurnished . With elevator available from June 1st in Migdal Dizengof ( Dizengof tower) floor 15 . Address : Dizengof 50 . Owner is Looking for 1 more Roomate. Total cost rent + including bills ( water/ electricity/ vad bayit , Arnona) 4500 ILS only per Roomate. Who is interested ? Please send PM .",
+  "tags": [],
+  "createdAt": {
+    "$date": "2018-05-05T17:47:26.744Z"
+  },
+  "hasGallery": "MAYBE",
+  "entryDate": {
+    "$date": "2018-05-05T17:47:26.749Z"
+  },
+  "numOfBalconies": null,
+  "floorOutOf": null,
+  "coords": {
+    "lng": null,
+    "lat": null
+  },
+  "photosCount": 0
+},{
+  "_id": {
+    "$oid": "5b03ff860c189e0014aa78cd"
+  },
+  "coords": {
+    "lat": 32.0676462,
+    "lng": 34.7712005
+  },
+  "floor": 1,
+  "tags": [
+    "מרוהטת",
+    "משופצת"
+  ],
+  "content": "https://m.facebook.com/story.php?story_fbid=2036982369649267&id=507119099302276 ***להשכרה מתיווך - כניסה מיידית🔝***\n ברחוב אלנבי ליד נחלת בנימין, דירת לופט, בקומה ראשונה, בנויה כ- 90 מ״ר, גובה תקרה 2 מטר, ריהוט מלא, משופצת ומיוחדת, המחיר לא ...כולל הוצאות חודשיות\n 4,600₪ - *עמלת התיווך חלה על השוכרים*\n ☎️ אריאל 054-8814471\n ☎️ עופר 054-4406686\n #דירות_להשכרה_בתל_אביב_בא_לי_בית\n #דירות_להשכרה_מרכז__תל_אביב\n #דירות_להשכרה_בתל_אביב Ariel Malki | Ofer Malkin ",
+  "photos": [
+    "https://s3.amazonaws.com/dooron.watermark/watermarks/r1KNJt-km-NO.jpg",
+    "https://s3.amazonaws.com/dooron.watermark/watermarks/rytVyFWk7-NO.jpg",
+    "https://s3.amazonaws.com/dooron.watermark/watermarks/BkYEyKZJX-NO.jpg",
+    "https://s3.amazonaws.com/dooron.watermark/watermarks/SycE1t-JX-NO.jpg",
+    "https://s3.amazonaws.com/dooron.watermark/watermarks/ByFVkK-1Q-NO.jpg"
+  ],
+  "squareMeters": 90,
+  "immediateEntry": "YES",
+  "isBroker": true,
+  "hasBalcony": false,
+  "hasGarden": false,
+  "hasRoof": false,
+  "hasElevator": "NO",
+  "parking": 0,
+  "isRenovated": "YES",
+  "hasNaturalLight": "YES",
+  "rentPrice": 4600,
+  "isFurnished": "YES",
+  "petsAllowed": "MAYBE",
+  "goodForRoommates": "MAYBE",
+  "isParter": false,
+  "category": "APT_RENT",
+  "address": {
+    "street": "אלנבי",
+    "city": "תל אביב יפו",
+    "showHouseNumber": true,
+    "showAptNumber": true,
+    "en": {
+      "areas": [
+        "מרכז הארץ"
+      ],
+      "ourAreasArr": [
+        "מרכז הארץ"
+      ]
+    },
+    "ourAreasArr": [
+      "מרכז הארץ"
+    ]
+  },
+  "createdAt": {
+    "$date": "2018-05-22T11:31:18.539Z"
+  },
+  "hasGallery": "MAYBE",
+  "entryDate": {
+    "$date": "2018-05-22T11:31:18.542Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      34.7712005,
+      32.0676462
+    ]
+  },
+  "photosCount": 5
+},{
+  "_id": {
+    "$oid": "5aabb6388dd73373e869e9bd"
+  },
+  "address": {
+    "isNoisyStreet": true,
+    "city": "תל אביב יפו",
+    "street": "שדרות רוטשילד",
+    "houseNumber": "6",
+    "showAptNumber": null,
+    "showHouseNumber": null,
+    "aptNumber": null,
+    "en": {
+      "areas": [
+        "מרכז הארץ"
+      ],
+      "ourAreasArr": [
+        "מרכז הארץ"
+      ]
+    },
+    "ourAreasArr": [
+      "מרכז הארץ"
+    ]
+  },
+  "category": "APT_RENT",
+  "isParter": false,
+  "goodForRoommates": "MAYBE",
+  "petsAllowed": "MAYBE",
+  "isFurnished": "MAYBE",
+  "rentPrice": 3300,
+  "hasNaturalLight": "MAYBE",
+  "isRenovated": "NO",
+  "parking": 0,
+  "hasElevator": "YES",
+  "hasRoof": false,
+  "hasGarden": false,
+  "hasBalcony": false,
+  "isBroker": false,
+  "entryDate": {
+    "$date": "2018-04-01T11:18:58.634Z"
+  },
+  "immediateEntry": "NO",
+  "squareMeters": 30,
+  "photos": [
+    "https://s3.amazonaws.com/dooron.watermark/watermarks/rk6t7NKKM-NO.jpg",
+    "https://s3.amazonaws.com/dooron.watermark/watermarks/S1aFmEYYG-NO.jpg",
+    "https://s3.amazonaws.com/dooron.watermark/watermarks/Hy6K7VFtM-NO.jpg"
+  ],
+  "content": "דירת יחיד 3300 שח כולל הכל חוץ מחשמל.\n ברוטשילד 6. כניסה ב1.4.\n לאחר שנתיים עוברת מהמיקום הכי טוב בעיר.\n 25-30 מ\"ר נעימה נקייה נוחה ומנוצלת.\n בעל דירה אחד למליון מדהים אמין וזמין....\n מזגן. מעלית. דוד חשמלי זריז. מקרר נשאר בדירה.\n דרישות לנכנס צ'ק פיקדון על סך 5000 שח עד תום תקופת השכירות.\n לרציניים ואמינים 0528600895 שיר.... ",
+  "tags": [
+    "מעלית",
+    "מיזוג"
+  ],
+  "coords": {
+    "lng": 34.7697372,
+    "lat": 32.0629308
+  },
+  "createdAt": {
+    "$date": "2018-03-16T12:19:04.741Z"
+  },
+  "numOfBalconies": null,
+  "floorOutOf": null,
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      34.7697372,
+      32.0629308
+    ]
+  },
+  "photosCount": 3
+},{
+  "_id": {
+    "$oid": "5a60a0908dd73373e8c5774f"
+  },
+  "coords": {
+    "lng": 34.765731,
+    "lat": 32.062097
+  },
+  "goodForRoommates": "MAYBE",
+  "immediateEntry": "NO",
+  "petsAllowed": "YES",
+  "isFurnished": "MAYBE",
+  "parking": 0,
+  "hasElevator": "NO",
+  "isParter": false,
+  "hasRoof": false,
+  "hasGarden": false,
+  "hasBalcony": true,
+  "isBroker": false,
+  "squareMeters": 60,
+  "rentPrice": 5600,
+  "photos": [
+    "https://s3.amazonaws.com/dooron.watermark/watermarks/H1BfRx0VG-NO.jpg",
+    "https://s3.amazonaws.com/dooron.watermark/watermarks/ryBzRl0VM-NO.jpg",
+    "https://s3.amazonaws.com/dooron.watermark/watermarks/SkHG0lC4f-NO.jpg",
+    "https://s3.amazonaws.com/dooron.watermark/watermarks/B1SfAlANG-NO.jpg",
+    "https://s3.amazonaws.com/dooron.watermark/watermarks/HyrGAxA4M-NO.jpg"
+  ],
+  "content": " ***להשכרה בנווה צדק***  דירת 60 מטר מרווחת עם תקרות גבוהות,בדיוק עברה רענון, קומה שנייה (בלי מעלית).  כניסה מיידית,קיימת מרפסת שמש, יש 2 מזגנים, אין בעיה עם בעלי ...\n חיים, אין בעיית חנייה, 3 כיווני אוויר, אזור שקט. שכ\"ד 5600 ש\"ח, ארנונה 260 ש\"ח (לחודשיים) מציג מחר (19.1.18) בין השעות 10:00-12:00\n לא מתווך!!!!\n לפרטים ושאלות נוספות בפרטי.... See Translation",
+  "tags": [
+    "מיזוג",
+    "מרוהטת",
+    "מרפסת"
+  ],
+  "address": {
+    "isNoisyStreet": false,
+    "street": "נווה צדק",
+    "city": "תל אביב יפו",
+    "en": {
+      "areas": [
+        "מרכז הארץ"
+      ],
+      "ourAreasArr": [
+        "מרכז הארץ"
+      ]
+    },
+    "ourAreasArr": [
+      "מרכז הארץ"
+    ]
+  },
+  "category": "APT_RENT",
+  "createdAt": {
+    "$date": "2018-01-18T13:26:40.915Z"
+  },
+  "entryDate": {
+    "$date": "2018-02-06T16:55:24.790Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      34.765731,
+      32.062097
+    ]
+  },
+  "photosCount": 5
+},{
+  "_id": {
+    "$oid": "5a79532a3b33380014493d8f"
+  },
+  "createdAt": {
+    "$date": "2018-02-06T07:03:06.471Z"
+  },
+  "category": "APT_RENT",
+  "floor": 4,
+  "content": "להשכרה מרוקח נכסים:\n דירה לזוג/יחיד ברחוב צדדי שבין טשרניחובסקי ולקינג ג'ורג'.\n דירה שקטה ומוארת עם מרפסת גדולה ומרשימה! \n קומה 4 עם מעלית,  הדירה כ-50 מ''ר+מרפסת\n  כניסה : מיידית...\n מחיר מבוקש: 5,400₪ לפרטים נוספים: יוני מנחם מתווך.\n 0507701936 ",
+  "rentPrice": 5400,
+  "squareMeters": 50,
+  "isBroker": true,
+  "hasBalcony": true,
+  "hasGarden": false,
+  "hasRoof": false,
+  "isParter": false,
+  "parking": 0,
+  "petsAllowed": "MAYBE",
+  "hasNaturalLight": "MAYBE",
+  "isRenovated": "NO",
+  "hasElevator": "YES",
+  "immediateEntry": "YES",
+  "goodForRoommates": "NO",
+  "isFurnished": "MAYBE",
+  "photos": [
+    "https://s3.amazonaws.com/dooron.watermark/watermarks/HyRmH68LM-NO.jpg",
+    "https://s3.amazonaws.com/dooron.watermark/watermarks/BkCmSp88z-NO.jpg",
+    "https://s3.amazonaws.com/dooron.watermark/watermarks/B1x67STULG-NO.jpg",
+    "https://s3.amazonaws.com/dooron.watermark/watermarks/rkTXSp8LG-NO.jpg",
+    "https://s3.amazonaws.com/dooron.watermark/watermarks/H1JEBpUIf-NO.jpg"
+  ],
+  "tags": [
+    "מעלית",
+    "מרפסת"
+  ],
+  "coords": {
+    "lat": 32.0734919,
+    "lng": 34.7722675
+  },
+  "address": {
+    "city": "תל אביב יפו",
+    "street": "טשרניחובסקי",
+    "isNoisyStreet": false,
+    "en": {
+      "areas": [
+        "מרכז הארץ"
+      ],
+      "ourAreasArr": [
+        "מרכז הארץ"
+      ]
+    },
+    "ourAreasArr": [
+      "מרכז הארץ"
+    ]
+  },
+  "entryDate": {
+    "$date": "2018-02-06T16:55:24.790Z"
+  },
+  "managementFeePrice": null,
+  "numOfBalconies": null,
+  "numOfRooms": null,
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      34.7722675,
+      32.0734919
+    ]
+  },
+  "photosCount": 5
+},{
+  "_id": {
+    "$oid": "5a5b148a8dd73373e8bcff4a"
+  },
+  "coords": {
+    "lng": 34.765731,
+    "lat": 32.062097
+  },
+  "goodForRoommates": "MAYBE",
+  "immediateEntry": "MAYBE",
+  "petsAllowed": "MAYBE",
+  "isFurnished": "MAYBE",
+  "parking": 0,
+  "hasElevator": "NO",
+  "isParter": false,
+  "hasRoof": false,
+  "hasGarden": true,
+  "hasBalcony": false,
+  "isBroker": true,
+  "squareMeters": 60,
+  "rentPrice": 5500,
+  "photos": [
+    "https://s3.amazonaws.com/dooron.watermark/watermarks/BJ7B7uu4f-NO.jpg",
+    "https://s3.amazonaws.com/dooron.watermark/watermarks/HJQB7dO4G-NO.jpg",
+    "https://s3.amazonaws.com/dooron.watermark/watermarks/S1mHQ_ONM-NO.jpg",
+    "https://s3.amazonaws.com/dooron.watermark/watermarks/BksUmu_Vz-NO.jpg",
+    "https://s3.amazonaws.com/dooron.watermark/watermarks/BkMrmudNf-NO.jpg"
+  ],
+  "content": " ******Lovely house for rent in Neve Tzedek *****\n You will love this place located in a fantastic area of Neve Tzedek. Small and quiet street. Around 60 meters with a spacious bedroom and great living room. The complex has a lovely backyard. With great natural light and vibes. Price: 5500 NIS. Please contact Eden real estate agency 0546336990.",
+  "tags": [
+    "מרוהטת"
+  ],
+  "address": {
+    "isNoisyStreet": false,
+    "street": "נווה צדק",
+    "city": "תל אביב יפו",
+    "en": {
+      "areas": [
+        "מרכז הארץ"
+      ],
+      "ourAreasArr": [
+        "מרכז הארץ"
+      ]
+    },
+    "ourAreasArr": [
+      "מרכז הארץ"
+    ]
+  },
+  "createdAt": {
+    "$date": "2018-01-14T08:27:54.787Z"
+  },
+  "entryDate": {
+    "$date": "2018-02-06T16:55:24.790Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      34.765731,
+      32.062097
+    ]
+  },
+  "photosCount": 5,
+  "category": "APT_RENT"
+},{
+  "_id": {
+    "$oid": "5afc51e28dd73373e8c01d2c"
+  },
+  "address": {
+    "city": "תל אביב יפו",
+    "showHouseNumber": true,
+    "showAptNumber": true,
+    "isNoisyStreet": null,
+    "aptNumber": null,
+    "houseNumber": null,
+    "en": {
+      "areas": [
+        "מרכז הארץ"
+      ],
+      "ourAreasArr": [
+        "מרכז הארץ"
+      ]
+    },
+    "ourAreasArr": [
+      "מרכז הארץ"
+    ]
+  },
+  "category": "APT_RENT",
+  "isParter": false,
+  "goodForRoommates": "MAYBE",
+  "petsAllowed": "MAYBE",
+  "isFurnished": "MAYBE",
+  "rentPrice": 6400,
+  "hasNaturalLight": "YES",
+  "isRenovated": "YES",
+  "parking": 0,
+  "hasElevator": "NO",
+  "hasRoof": true,
+  "hasGarden": false,
+  "hasBalcony": false,
+  "immediateEntry": "MAYBE",
+  "photos": [
+    "https://s3.amazonaws.com/dooron.watermark/watermarks/r1MoeRFAz-NO.jpg",
+    "https://s3.amazonaws.com/dooron.watermark/watermarks/rkzig0tCM-NO.jpg",
+    "https://s3.amazonaws.com/dooron.watermark/watermarks/rJGjxCKAf-NO.jpg",
+    "https://s3.amazonaws.com/dooron.watermark/watermarks/rJfigRtRz-NO.jpg",
+    "https://s3.amazonaws.com/dooron.watermark/watermarks/SJzjl0tRG-NO.jpg"
+  ],
+  "content": " FOR RENT: PFN# 0116 Stylish Rooftop Apartment in the Kerem\n Lovely Apartment in the Kerem Hatemaniem with a private roof.. Parquet floors, renovated, close to the sea and the shuk.   6,400 nis   RONKIN - Contact Office Number -  054 241 33 11\n Tel Aviv's No. 1 English Speaking Agency...\n www.ronkin-list.com \n Email : jon@ronkingroup.com\n FACEBOOK- RONKIN REAL ESTATE ",
+  "tags": [],
+  "coords": {
+    "lng": 34.766581,
+    "lat": 32.0697295
+  },
+  "createdAt": {
+    "$date": "2018-05-16T15:44:34.102Z"
+  },
+  "hasGallery": "MAYBE",
+  "entryDate": {
+    "$date": "2018-05-16T15:44:34.104Z"
+  },
+  "isBroker": true,
+  "numOfBalconies": null,
+  "floorOutOf": null,
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      34.766581,
+      32.0697295
+    ]
+  },
+  "photosCount": 5
+},{
+  "_id": {
+    "$oid": "5a6d8fe28dd73373e8d1fab1"
+  },
+  "coords": {
+    "lng": 34.7766433,
+    "lat": 32.0654326
+  },
+  "goodForRoommates": "MAYBE",
+  "immediateEntry": "MAYBE",
+  "petsAllowed": "MAYBE",
+  "isFurnished": "NO",
+  "parking": 0,
+  "hasElevator": "NO",
+  "isParter": false,
+  "hasRoof": false,
+  "hasGarden": false,
+  "hasBalcony": false,
+  "isBroker": true,
+  "squareMeters": 50,
+  "rentPrice": 6000,
+  "photos": [
+    "https://s3.amazonaws.com/dooron.watermark/watermarks/H1Q9SbiBG-NO.jpg",
+    "https://s3.amazonaws.com/dooron.watermark/watermarks/HyfcS-sHM-NO.jpg",
+    "https://s3.amazonaws.com/dooron.watermark/watermarks/Hkg5B-iBf-NO.jpg",
+    "https://s3.amazonaws.com/dooron.watermark/watermarks/rJx5r-oSf-NO.jpg",
+    "https://s3.amazonaws.com/dooron.watermark/watermarks/rJZqSbiHz-NO.jpg"
+  ],
+  "content": " Cozy, renovated 50 sqm apartment full of light with a private entrance and a joint backyard Prime location just 50 meters away from Rothschild Boulevard, 10 min walk from Habima Theater Building and 15 min walk from the beach It will be available from the 15/02...\n The price is 6000 ILS per month\n PM me for more information ",
+  "tags": [],
+  "address": {
+    "isNoisyStreet": false,
+    "street": "רוטשילד",
+    "city": "תל אביב יפו",
+    "en": {
+      "areas": [
+        "מרכז הארץ"
+      ],
+      "ourAreasArr": [
+        "מרכז הארץ"
+      ]
+    },
+    "ourAreasArr": [
+      "מרכז הארץ"
+    ]
+  },
+  "category": "APT_RENT",
+  "createdAt": {
+    "$date": "2018-01-28T08:54:58.456Z"
+  },
+  "hasNaturalLight": "MAYBE",
+  "isRenovated": "MAYBE",
+  "entryDate": {
+    "$date": "2018-02-06T16:55:24.790Z"
+  },
+  "floor": null,
+  "managementFeePrice": null,
+  "numOfBalconies": null,
+  "numOfRooms": null,
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      34.7766433,
+      32.0654326
+    ]
+  },
+  "photosCount": 5
+},{
+  "_id": {
+    "$oid": "5b0f8243b0e1d70014372c51"
+  },
+  "coords": {
+    "lat": 32.075254,
+    "lng": 34.7711958
+  },
+  "tags": [
+    "מיזוג"
+  ],
+  "content": "להשכרה !!!! ✅ברחוב פינסקר ליד פינת בוגרשוב\n ✅נכס ( יכול לשמש למגורים),140 מר \n  ✅בקומת מרתף,תקרות גבוהות,חשמל, אינסטלציה,מזגנים,הכל חדש, מעוצב תעשייתי מודרני, פגז לאומן....\n ✅מחיר : 6500 שח . ✅מתיווך - 0526432527 לפרטים נוספים. ",
+  "photos": [
+    "https://s3.amazonaws.com/dooron.watermark/watermarks/SyeoZbay7-NO.jpg",
+    "https://s3.amazonaws.com/dooron.watermark/watermarks/ryliZW6km-NO.jpg",
+    "https://s3.amazonaws.com/dooron.watermark/watermarks/ryeib-pJ7-NO.jpg",
+    "https://s3.amazonaws.com/dooron.watermark/watermarks/ByljZba1m-NO.jpg",
+    "https://s3.amazonaws.com/dooron.watermark/watermarks/Skes--ayX-NO.jpg"
+  ],
+  "squareMeters": 140,
+  "immediateEntry": "MAYBE",
+  "isBroker": true,
+  "hasBalcony": false,
+  "hasGarden": false,
+  "hasRoof": false,
+  "hasElevator": "NO",
+  "parking": 0,
+  "isRenovated": "MAYBE",
+  "hasNaturalLight": "NO",
+  "rentPrice": 6000,
+  "isFurnished": "MAYBE",
+  "petsAllowed": "MAYBE",
+  "goodForRoommates": "MAYBE",
+  "isParter": true,
+  "category": "APT_RENT",
+  "address": {
+    "street": "פינסקר",
+    "city": "תל אביב יפו",
+    "showHouseNumber": true,
+    "showAptNumber": true,
+    "houseNumber": null,
+    "aptNumber": null,
+    "isNoisyStreet": null,
+    "en": {
+      "areas": [
+        "מרכז הארץ"
+      ],
+      "ourAreasArr": [
+        "מרכז הארץ"
+      ]
+    },
+    "ourAreasArr": [
+      "מרכז הארץ"
+    ]
+  },
+  "createdAt": {
+    "$date": "2018-05-31T05:04:03.835Z"
+  },
+  "hasGallery": "MAYBE",
+  "entryDate": {
+    "$date": "2018-05-31T05:04:03.840Z"
+  },
+  "floorOutOf": null,
+  "numOfBalconies": null,
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      34.7711958,
+      32.075254
+    ]
+  },
+  "photosCount": 5
+},{
+  "_id": {
+    "$oid": "5ad439368dd73373e8add516"
+  },
+  "address": {
+    "city": "תל אביב יפו",
+    "street": "מרכז בעלי מלאכה",
+    "showHouseNumber": true,
+    "showAptNumber": true,
+    "en": {
+      "areas": [
+        "מרכז הארץ"
+      ],
+      "ourAreasArr": [
+        "מרכז הארץ"
+      ]
+    },
+    "ourAreasArr": [
+      "מרכז הארץ"
+    ]
+  },
+  "category": "APT_RENT",
+  "goodForRoommates": "MAYBE",
+  "petsAllowed": "MAYBE",
+  "isFurnished": "MAYBE",
+  "rentPrice": 6500,
+  "hasNaturalLight": "YES",
+  "isRenovated": "NO",
+  "hasElevator": "YES",
+  "hasBalcony": true,
+  "isBroker": true,
+  "immediateEntry": "MAYBE",
+  "squareMeters": 65,
+  "photos": [
+    "https://s3.amazonaws.com/dooron.watermark/watermarks/HJp3_2-3G-NO.jpg",
+    "https://s3.amazonaws.com/dooron.watermark/watermarks/rJa2d3W2z-NO.jpg",
+    "https://s3.amazonaws.com/dooron.watermark/watermarks/Sya3_hWhM-NO.jpg",
+    "https://s3.amazonaws.com/dooron.watermark/watermarks/r1pn_h-3G-NO.jpg",
+    "https://s3.amazonaws.com/dooron.watermark/watermarks/rkThuh-nG-NO.jpg"
+  ],
+  "content": "להשכרה🌸🌸🌸\n פרטים: מרכז בעלי מלאכה  \n קומה 3 דירה  מרפסת שמש\n מעלית 65 מטר  מוארת\n כניסה ב -6.5.18 מחיר-6500₪...\n לפרטים:0546605999 אבי\n אשכנזי נכסים בת״א\n בס״ד ",
+  "tags": [
+    "מעלית",
+    "מרפסת"
+  ],
+  "floor": 3,
+  "coords": {
+    "lng": 34.773449,
+    "lat": 32.069814
+  },
+  "createdAt": {
+    "$date": "2018-04-16T05:48:37.920Z"
+  },
+  "entryDate": {
+    "$date": "2018-04-16T05:48:38.011Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      34.773449,
+      32.069814
+    ]
+  },
+  "photosCount": 5
+},{
+  "_id": {
+    "$oid": "5b02993f8dd73373e86f973f"
+  },
+  "address": {
+    "city": "תל אביב יפו",
+    "showHouseNumber": true,
+    "showAptNumber": true,
+    "en": {
+      "areas": [
+        "מרכז הארץ"
+      ],
+      "ourAreasArr": [
+        "מרכז הארץ"
+      ]
+    },
+    "ourAreasArr": [
+      "מרכז הארץ"
+    ]
+  },
+  "category": "APT_RENT",
+  "isParter": false,
+  "goodForRoommates": "MAYBE",
+  "petsAllowed": "MAYBE",
+  "isFurnished": "MAYBE",
+  "rentPrice": 6500,
+  "hasNaturalLight": "YES",
+  "isRenovated": "YES",
+  "parking": 0,
+  "hasElevator": "NO",
+  "hasRoof": false,
+  "hasGarden": true,
+  "hasBalcony": true,
+  "isBroker": true,
+  "immediateEntry": "MAYBE",
+  "squareMeters": 60,
+  "photos": [
+    "https://s3.amazonaws.com/dooron.watermark/watermarks/r1WYdGlym-NO.jpg",
+    "https://s3.amazonaws.com/dooron.watermark/watermarks/SJZt_Gek7-NO.jpg",
+    "https://s3.amazonaws.com/dooron.watermark/watermarks/BkWtdMe1Q-NO.jpg",
+    "https://s3.amazonaws.com/dooron.watermark/watermarks/ByeKuGekQ-NO.jpg",
+    "https://s3.amazonaws.com/dooron.watermark/watermarks/rkeFOMlJ7-NO.jpg"
+  ],
+  "content": " במיקום מעולה בפרויקט TLV \n 5 דק משדרות רוטשילד, דירת גן חדשה \n 60 מ\"ר + מרפסת 30 מ\"ר, \n בעל דירה נוח ומקסים\n מחיר מבוקש 6500שח...\n פרטים נוספים ב 050-7178910 תיווך ",
+  "tags": [
+    "מרפסת",
+    "גינה"
+  ],
+  "floor": 0,
+  "coords": {
+    "lng": 34.7766433,
+    "lat": 32.0654326
+  },
+  "createdAt": {
+    "$date": "2018-05-21T10:02:39.061Z"
+  },
+  "hasGallery": "MAYBE",
+  "entryDate": {
+    "$date": "2018-05-21T10:02:39.063Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      34.7766433,
+      32.0654326
+    ]
+  },
+  "photosCount": 5
+},{
+  "_id": {
+    "$oid": "5ac465518dd73373e88260aa"
+  },
+  "address": {
+    "city": "תל אביב יפו",
+    "street": "נווה צדק",
+    "showHouseNumber": true,
+    "showAptNumber": true,
+    "en": {
+      "areas": [
+        "מרכז הארץ"
+      ],
+      "ourAreasArr": [
+        "מרכז הארץ"
+      ]
+    },
+    "ourAreasArr": [
+      "מרכז הארץ"
+    ]
+  },
+  "category": "APT_RENT",
+  "goodForRoommates": "MAYBE",
+  "petsAllowed": "MAYBE",
+  "isFurnished": "MAYBE",
+  "rentPrice": 6900,
+  "hasNaturalLight": "MAYBE",
+  "isRenovated": "MAYBE",
+  "parking": 1,
+  "hasElevator": "MAYBE",
+  "isBroker": true,
+  "immediateEntry": "MAYBE",
+  "squareMeters": 65,
+  "photos": [],
+  "content": "*******For rent great flat in Neve Tzedek *******\n Around 65 meters, spacious living room kitchen, plus 2 bedrooms. Parking and amazing location. Ground floor. Price: 6900 NIS. Please call to Eden real estate agency 0546336990 and schedule our visit. Our office charges one month fee plus taxes.",
+  "tags": [],
+  "coords": {
+    "lng": 34.765731,
+    "lat": 32.062097
+  },
+  "createdAt": {
+    "$date": "2018-04-04T05:40:33.733Z"
+  },
+  "entryDate": {
+    "$date": "2018-04-04T05:40:33.742Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      34.765731,
+      32.062097
+    ]
+  },
+  "photosCount": 0
+},{
+  "_id": {
+    "$oid": "5aeee9788dd73373e830ab4d"
+  },
+  "address": {
+    "isNoisyStreet": false,
+    "city": "תל אביב יפו",
+    "street": "שדרות ח\"ן",
+    "showHouseNumber": true,
+    "showAptNumber": true,
+    "en": {
+      "areas": [
+        "מרכז הארץ"
+      ],
+      "ourAreasArr": [
+        "מרכז הארץ"
+      ]
+    },
+    "ourAreasArr": [
+      "מרכז הארץ"
+    ]
+  },
+  "category": "APT_RENT",
+  "isParter": false,
+  "goodForRoommates": "MAYBE",
+  "petsAllowed": "MAYBE",
+  "isFurnished": "MAYBE",
+  "rentPrice": 7000,
+  "hasNaturalLight": "NO",
+  "isRenovated": "YES",
+  "parking": 0,
+  "hasElevator": "NO",
+  "hasRoof": false,
+  "hasGarden": false,
+  "hasBalcony": false,
+  "isBroker": true,
+  "immediateEntry": "MAYBE",
+  "photos": [
+    "https://s3.amazonaws.com/dooron.watermark/watermarks/HyRsdDh6f-NO.jpg",
+    "https://s3.amazonaws.com/dooron.watermark/watermarks/HyCo_P2aM-NO.jpg",
+    "https://s3.amazonaws.com/dooron.watermark/watermarks/S10idDh6M-NO.jpg",
+    "https://s3.amazonaws.com/dooron.watermark/watermarks/rkRjuD26M-NO.jpg"
+  ],
+  "content": " ",
+  "tags": [],
+  "coords": {
+    "lng": 34.7799118,
+    "lat": 32.0767142
+  },
+  "createdAt": {
+    "$date": "2018-05-06T11:39:36.726Z"
+  },
+  "hasGallery": "MAYBE",
+  "entryDate": {
+    "$date": "2018-05-06T11:39:36.744Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      34.7799118,
+      32.0767142
+    ]
+  },
+  "photosCount": 4
+},{
+  "_id": {
+    "$oid": "5b0fd019b0e1d700143763f4"
+  },
+  "coords": {
+    "lat": 32.062097,
+    "lng": 34.765731
+  },
+  "floor": 1,
+  "tags": [],
+  "content": "For RENT - 70 Sqm Duplex \\ Loft 2 floors fully furnished in the luxurious Neve Tzedek tower Large glass windows from the ceiling till the floor, 6 Sqm high ceiling overlooking all of Tel Aviv's beaches  On the first floor: equipped with an open kitchen connecting to the living room, accessorized with all electronic appliances, a guest bathroom  and an exit to the sunny balcony with a view of the ocean   and the colourful Neve Tzedek area  On the second floor: A pampering and ...relaxing bedroom with a toilet and bath  The loft is beautiful architecturally designed with an exclusive furniture design  Perfect for couples or singles !! A not to be missed duplex  Why wait? Move in now  Asking price is 8300 NIS per a month, management price 1100 NIS per month, municipal/arnona rate is 350 NIS for 2 months  For more information or to schedule an appointment please call 077-4144704  for more pictures and details please press on the property picture ",
+  "photos": [],
+  "squareMeters": 70,
+  "immediateEntry": "MAYBE",
+  "hasBalcony": false,
+  "hasGarden": false,
+  "hasRoof": false,
+  "hasElevator": "NO",
+  "parking": 0,
+  "isRenovated": "YES",
+  "hasNaturalLight": "MAYBE",
+  "rentPrice": 8300,
+  "isFurnished": "YES",
+  "petsAllowed": "MAYBE",
+  "goodForRoommates": "MAYBE",
+  "isParter": false,
+  "category": "APT_RENT",
+  "address": {
+    "city": "תל אביב יפו",
+    "showHouseNumber": true,
+    "showAptNumber": true,
+    "en": {
+      "areas": [
+        "מרכז הארץ"
+      ],
+      "ourAreasArr": [
+        "מרכז הארץ"
+      ]
+    },
+    "ourAreasArr": [
+      "מרכז הארץ"
+    ]
+  },
+  "createdAt": {
+    "$date": "2018-05-31T10:36:09.720Z"
+  },
+  "hasGallery": "MAYBE",
+  "entryDate": {
+    "$date": "2018-05-31T10:36:09.721Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      34.765731,
+      32.062097
+    ]
+  },
+  "photosCount": 0
+}]
